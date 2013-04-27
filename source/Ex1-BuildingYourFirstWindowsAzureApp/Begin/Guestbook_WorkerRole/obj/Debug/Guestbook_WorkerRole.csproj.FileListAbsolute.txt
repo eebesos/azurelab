@@ -1,0 +1,12 @@
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\Guestbook_WorkerRole.dll.config
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\Guestbook_WorkerRole.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\Guestbook_WorkerRole.pdb
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\GuestBook_Data.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\GuestBook_Data.pdb
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\obj\Debug\Guestbook_WorkerRole.csprojResolveAssemblyReference.cache
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\obj\Debug\Guestbook_WorkerRole.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\Guestbook_WorkerRole\obj\Debug\Guestbook_WorkerRole.pdb

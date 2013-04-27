@@ -1,0 +1,7 @@
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\GuestBook_Data\bin\Release\GuestBook_Data.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\GuestBook_Data\bin\Release\GuestBook_Data.pdb
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\GuestBook_Data\bin\Release\Microsoft.WindowsAzure.StorageClient.xml
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\GuestBook_Data\obj\Release\GuestBook_Data.csprojResolveAssemblyReference.cache
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\GuestBook_Data\obj\Release\GuestBook_Data.dll
+c:\source\Ex1-BuildingYourFirstWindowsAzureApp\Begin\GuestBook_Data\obj\Release\GuestBook_Data.pdb
